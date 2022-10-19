@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.io.*;
 
-public class A25_아기상어_홍석인 {
+public class B_16232{
 	public static int[] dx = { -1, 0, 0, 1 };
 	public static int[] dy = { 0, -1, 1, 0 };
 	public static int N;	
